@@ -1,0 +1,26 @@
+[
+  {
+    "name": "@react-three/fiber",
+    "source": "https://raw.githubusercontent.com/pmndrs/react-three-fiber/v9.4.0/LICENSE",
+    "http_status": 200,
+    "saved": "docs/licenses/frontend/@react-three__fiber/LICENSE.upstream"
+  },
+  {
+    "name": "draco3d",
+    "source": "https://raw.githubusercontent.com/google/draco/1.5.7/LICENSE",
+    "http_status": 200,
+    "saved": "docs/licenses/frontend/draco3d/LICENSE.upstream"
+  },
+  {
+    "name": "maath",
+    "source": "https://raw.githubusercontent.com/pmndrs/maath/main/LICENSE",
+    "saved": "docs/licenses/frontend/maath/LICENSE.upstream",
+    "scope": "Current upstream license supplement; published npm archive lacked standalone license"
+  },
+  {
+    "name": "@mediapipe/tasks-vision",
+    "source": "https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/LICENSE",
+    "saved": "docs/licenses/frontend/@mediapipe__tasks-vision/LICENSE.upstream",
+    "scope": "Current upstream license supplement; published npm archive lacked standalone license"
+  }
+]

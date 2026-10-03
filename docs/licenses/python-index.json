@@ -1,0 +1,441 @@
+[
+  {
+    "name": "annotated-types",
+    "version": "0.8.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/annotated-types/annotated_types-0.8.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "anyio",
+    "version": "4.15.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/anyio/anyio-4.15.1.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "attrs",
+    "version": "26.1.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/attrs/attrs-26.1.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "build",
+    "version": "1.2.2.post1",
+    "license": "MIT License",
+    "notices": [
+      "docs/licenses/python/build/build-1.2.2.post1.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "cadquery",
+    "version": "2.5.2",
+    "license": "Apache Public License 2.0",
+    "notices": [
+      "docs/licenses/python/cadquery/cadquery-2.5.2.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "cadquery-ocp",
+    "version": "7.7.2",
+    "license": "Apache Software License",
+    "notices": [
+      "docs/licenses/python/cadquery-ocp/cadquery_ocp-7.7.2.dist-info/LICENSE",
+      "docs/licenses/python/cadquery-ocp/cadquery_ocp-7.7.2.dist-info/LICENSES_bundled"
+    ]
+  },
+  {
+    "name": "casadi",
+    "version": "3.8.1",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)",
+    "notices": [
+      "docs/licenses/python/casadi/casadi/include/licenses/BQPD/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/CSparse/Doc/License.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/FMI-Standard-2.0.2/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/FMI-Standard-3.0/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/LICENSE.bzip2.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/blasfeo-external/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/bonmin-external/Bonmin/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/bonmin-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/casadi-sundials/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/casadi-sundials/cvodes/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/casadi-sundials/idas/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/casadi-sundials/kinsol/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/casadi-sundials/sundials/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/casadi/LICENSE/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/cbc-external/Cbc/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/cbc-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/cgl-external/Cgl/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/cgl-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/clp-external/Clp/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/clp-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/coinutils-external/CoinUtils/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/coinutils-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/daqp-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/fatrop-external/LICENSE-EPL-2.0.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/fatrop-external/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/ghc-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/highs-external/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/highs-external/extern/amd/License.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/highs-external/extern/metis/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/highs-external/extern/pdqsort/license.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/highs-external/extern/rcm/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/highs-external/extern/zstr/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/highs-external/highs/io/filereaderlp/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/hpipm-external/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/hpipm-external/experimental/andrea/prototype/code/plotregion/license.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/ipopt-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/lacemodelica-external-build/_deps/antlr4_runtime-src/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/lacemodelica-external-build/_deps/antlr4_runtime-src/runtime/Dart/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/lacemodelica-external-build/_deps/antlr4_runtime-src/runtime/Go/antlr/v4/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/lacemodelica-external-build/_deps/tinyxml2-src/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/lacemodelica-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/libz-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/libz-external/contrib/dotzlib/LICENSE_1_0.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/libzip-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/metis-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/metis-external/metis-4.0/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/mockups-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/mumps-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/mumps-external/MUMPS/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/onnx-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/onnx-external/third_party/pybind11/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/osi-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/osi-external/Osi/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/osqp-external-build/_deps/qdldl-src/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/osqp-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/osqp-external/algebra/_common/lin_sys/qdldl/amd/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/piqp-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/piqp-external/docs/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/piqp-external/tests/data/maros_meszaros/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/protobuf-external-build/_deps/absl-src/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/protobuf-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/protobuf-external/third_party/utf8_range/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/bindings/python/external/nanobind/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/bindings/python/external/nanobind/ext/robin_map/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/cmake-module/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/cmake-module/doxygen/MathJax/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/external/cereal/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/external/cereal/include/cereal/external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/external/cereal/include/cereal/external/rapidjson/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/external/cereal/include/cereal/external/rapidjson/msinttypes/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/proxqp-external/external/cereal/include/cereal/external/rapidxml/license.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/qpOASES/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/sleqp-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/superscs-external/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/tinyxml2-9.0.0/LICENSE.txt",
+      "docs/licenses/python/casadi/casadi/include/licenses/trlib-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/uno-external/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/licenses/uno-external/interfaces/Julia/LICENSE",
+      "docs/licenses/python/casadi/casadi/include/piqp/sparse/LDL_License.txt"
+    ]
+  },
+  {
+    "name": "certifi",
+    "version": "2026.7.22",
+    "license": "MPL-2.0",
+    "notices": [
+      "docs/licenses/python/certifi/certifi-2026.7.22.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "click",
+    "version": "8.1.8",
+    "license": "BSD License",
+    "notices": [
+      "docs/licenses/python/click/click-8.1.8.dist-info/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "ezdxf",
+    "version": "1.4.4",
+    "license": "MIT License",
+    "notices": [
+      "docs/licenses/python/ezdxf/ezdxf-1.4.4.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "fastapi",
+    "version": "0.115.12",
+    "license": "MIT License",
+    "notices": [
+      "docs/licenses/python/fastapi/fastapi-0.115.12.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "fonttools",
+    "version": "4.66.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/fonttools/fonttools-4.66.1.dist-info/licenses/LICENSE",
+      "docs/licenses/python/fonttools/fonttools-4.66.1.dist-info/licenses/LICENSE.external"
+    ]
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/h11/h11-0.16.0.dist-info/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "httpcore",
+    "version": "1.0.9",
+    "license": "BSD-3-Clause",
+    "notices": [
+      "docs/licenses/python/httpcore/httpcore-1.0.9.dist-info/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "httpx",
+    "version": "0.28.1",
+    "license": "BSD-3-Clause",
+    "notices": [
+      "docs/licenses/python/httpx/httpx-0.28.1.dist-info/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "hypothesis",
+    "version": "6.131.9",
+    "license": "MPL-2.0",
+    "notices": [
+      "docs/licenses/python/hypothesis/hypothesis-6.131.9.dist-info/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "license": "BSD-3-Clause",
+    "notices": [
+      "docs/licenses/python/idna/idna-3.20.dist-info/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "iniconfig",
+    "version": "2.3.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/iniconfig/iniconfig-2.3.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "markdown-it-py",
+    "version": "4.2.0",
+    "license": "MIT License",
+    "notices": [
+      "docs/licenses/python/markdown-it-py/markdown_it_py-4.2.0.dist-info/licenses/LICENSE",
+      "docs/licenses/python/markdown-it-py/markdown_it_py-4.2.0.dist-info/licenses/LICENSE.markdown-it"
+    ]
+  },
+  {
+    "name": "mdurl",
+    "version": "0.1.2",
+    "license": "MIT License",
+    "notices": [
+      "docs/licenses/python/mdurl/mdurl-0.1.2.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "multimethod",
+    "version": "1.12",
+    "license": "Apache-2.0 (see full installed notice)",
+    "notices": [
+      "docs/licenses/python/multimethod/multimethod-1.12.dist-info/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "nlopt",
+    "version": "2.11.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/nlopt/nlopt-2.11.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "numpy",
+    "version": "2.5.3",
+    "license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+    "notices": [
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/LICENSE.txt",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/ma/LICENSE",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/random/LICENSE.md",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "docs/licenses/python/numpy/numpy-2.5.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "docs/licenses/python/numpy/numpy/_core/include/numpy/random/LICENSE.txt",
+      "docs/licenses/python/numpy/numpy/ma/LICENSE",
+      "docs/licenses/python/numpy/numpy/random/LICENSE.md"
+    ]
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "license": "Apache-2.0 OR BSD-2-Clause",
+    "notices": [
+      "docs/licenses/python/packaging/packaging-26.3.dist-info/licenses/LICENSE",
+      "docs/licenses/python/packaging/packaging-26.3.dist-info/licenses/LICENSE.APACHE",
+      "docs/licenses/python/packaging/packaging-26.3.dist-info/licenses/LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "path",
+    "version": "17.1.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/path/path-17.1.1.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pluggy",
+    "version": "1.6.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/pluggy/pluggy-1.6.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pydantic",
+    "version": "2.11.4",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/pydantic/pydantic-2.11.4.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pydantic_core",
+    "version": "2.33.2",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/pydantic_core/pydantic_core-2.33.2.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "Pygments",
+    "version": "2.21.0",
+    "license": "BSD-2-Clause",
+    "notices": [
+      "docs/licenses/python/Pygments/pygments-2.21.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pyparsing",
+    "version": "3.3.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/pyparsing/pyparsing-3.3.3.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pyproject_hooks",
+    "version": "1.3.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/pyproject_hooks/pyproject_hooks-1.3.3.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pytest",
+    "version": "8.3.5",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/pytest/pytest-8.3.5.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "python-multipart",
+    "version": "0.0.20",
+    "license": "Apache-2.0",
+    "notices": [
+      "docs/licenses/python/python-multipart/python_multipart-0.0.20.dist-info/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "rich",
+    "version": "15.0.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/rich/rich-15.0.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "shellingham",
+    "version": "1.5.4",
+    "license": "ISC License",
+    "notices": [
+      "docs/licenses/python/shellingham/shellingham-1.5.4.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "sortedcontainers",
+    "version": "2.4.0",
+    "license": "Apache 2.0",
+    "notices": [
+      "docs/licenses/python/sortedcontainers/sortedcontainers-2.4.0.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "starlette",
+    "version": "0.46.2",
+    "license": "BSD-3-Clause",
+    "notices": [
+      "docs/licenses/python/starlette/starlette-0.46.2.dist-info/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "typer",
+    "version": "0.15.3",
+    "license": "MIT License",
+    "notices": [
+      "docs/licenses/python/typer/typer-0.15.3.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "typing-inspection",
+    "version": "0.4.4",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/typing-inspection/typing_inspection-0.4.4.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "license": "PSF-2.0",
+    "notices": [
+      "docs/licenses/python/typing_extensions/typing_extensions-4.16.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "typish",
+    "version": "1.9.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/python/typish/typish-1.9.3.dist-info/LICENSE"
+    ]
+  },
+  {
+    "name": "uvicorn",
+    "version": "0.34.2",
+    "license": "BSD-3-Clause",
+    "notices": [
+      "docs/licenses/python/uvicorn/uvicorn-0.34.2.dist-info/licenses/LICENSE.md"
+    ]
+  }
+]

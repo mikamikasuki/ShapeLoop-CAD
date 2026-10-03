@@ -1,0 +1,10 @@
+stats-gl 2.4.2
+Author declared by npm package: Renaud ROHLINGER
+License declared by npm package: MIT
+Source revision declared by npm registry: c12b2e391d5a88616e0b30f3c7f0577966426239
+
+Published README license notice:
+## 📜 License
+This project is licensed under the MIT License.
+
+The published archive has no standalone copyright/license text. This notice records its published declaration; it does not invent missing copyright attribution.

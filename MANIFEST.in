@@ -1,0 +1,11 @@
+recursive-include shapeloop/static *
+include LICENSE
+include THIRD_PARTY_NOTICES.md
+recursive-include docs/licenses *
+include ARCHITECTURE.md CONTRIBUTING.md SECURITY.md Dockerfile .dockerignore requirements-lock.txt
+recursive-include docs *.md *.json
+recursive-include scripts *.py *.sh
+recursive-include tests *.py
+include frontend/package.json frontend/package-lock.json frontend/tsconfig.json frontend/vite.config.ts frontend/playwright.config.ts frontend/index.html
+recursive-include frontend/src *.ts *.tsx *.css
+recursive-include frontend/tests *.ts

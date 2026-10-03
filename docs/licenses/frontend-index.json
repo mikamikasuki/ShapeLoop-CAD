@@ -1,0 +1,577 @@
+[
+  {
+    "name": "@babel/runtime",
+    "version": "7.29.7",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@babel__runtime/LICENSE"
+    ]
+  },
+  {
+    "name": "@dimforge/rapier3d-compat",
+    "version": "0.12.0",
+    "license": "Apache-2.0",
+    "notices": [
+      "docs/licenses/frontend/@dimforge__rapier3d-compat/LICENSE"
+    ]
+  },
+  {
+    "name": "@mediapipe/tasks-vision",
+    "version": "0.10.17",
+    "license": "Apache-2.0",
+    "notices": [
+      "docs/licenses/frontend/@mediapipe__tasks-vision/LICENSE.upstream"
+    ],
+    "notice_source": "https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/LICENSE",
+    "notice_scope": "Current upstream license supplement; published npm archive lacked standalone license"
+  },
+  {
+    "name": "@monogrid/gainmap-js",
+    "version": "3.4.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@monogrid__gainmap-js/LICENSE"
+    ]
+  },
+  {
+    "name": "@react-three/drei",
+    "version": "10.7.6",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@react-three__drei/LICENSE"
+    ]
+  },
+  {
+    "name": "@react-three/fiber",
+    "version": "9.4.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@react-three__fiber/LICENSE.upstream"
+    ],
+    "notice_source": "https://raw.githubusercontent.com/pmndrs/react-three-fiber/v9.4.0/LICENSE"
+  },
+  {
+    "name": "@tweenjs/tween.js",
+    "version": "23.1.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@tweenjs__tween.js/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/draco3d",
+    "version": "1.4.10",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@types__draco3d/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/offscreencanvas",
+    "version": "2019.7.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@types__offscreencanvas/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/react",
+    "version": "19.1.16",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@types__react/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/react-reconciler",
+    "version": "0.32.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@types__react-reconciler/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/stats.js",
+    "version": "0.17.4",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@types__stats.js/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/three",
+    "version": "0.180.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@types__three/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/webxr",
+    "version": "0.5.24",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@types__webxr/LICENSE"
+    ]
+  },
+  {
+    "name": "@use-gesture/core",
+    "version": "10.3.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@use-gesture__core/LICENSE"
+    ]
+  },
+  {
+    "name": "@use-gesture/react",
+    "version": "10.3.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@use-gesture__react/LICENSE"
+    ]
+  },
+  {
+    "name": "@webgpu/types",
+    "version": "0.1.74",
+    "license": "BSD-3-Clause",
+    "notices": [
+      "docs/licenses/frontend/@webgpu__types/LICENSE"
+    ]
+  },
+  {
+    "name": "base64-js",
+    "version": "1.5.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/base64-js/LICENSE"
+    ]
+  },
+  {
+    "name": "bidi-js",
+    "version": "1.1.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/bidi-js/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "buffer",
+    "version": "6.0.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/buffer/LICENSE"
+    ]
+  },
+  {
+    "name": "camera-controls",
+    "version": "3.1.2",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/camera-controls/LICENSE"
+    ]
+  },
+  {
+    "name": "cross-env",
+    "version": "7.0.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/cross-env/LICENSE"
+    ]
+  },
+  {
+    "name": "cross-spawn",
+    "version": "7.0.6",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/cross-spawn/LICENSE"
+    ]
+  },
+  {
+    "name": "csstype",
+    "version": "3.2.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/csstype/LICENSE"
+    ]
+  },
+  {
+    "name": "detect-gpu",
+    "version": "5.0.70",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/detect-gpu/LICENSE"
+    ]
+  },
+  {
+    "name": "draco3d",
+    "version": "1.5.7",
+    "license": "Apache-2.0",
+    "notices": [
+      "docs/licenses/frontend/draco3d/LICENSE.upstream"
+    ],
+    "notice_source": "https://raw.githubusercontent.com/google/draco/1.5.7/LICENSE"
+  },
+  {
+    "name": "fflate",
+    "version": "0.8.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/fflate/LICENSE"
+    ]
+  },
+  {
+    "name": "glsl-noise",
+    "version": "0.0.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/glsl-noise/LICENSE"
+    ]
+  },
+  {
+    "name": "hls.js",
+    "version": "1.7.3",
+    "license": "Apache-2.0",
+    "notices": [
+      "docs/licenses/frontend/hls.js/LICENSE"
+    ]
+  },
+  {
+    "name": "ieee754",
+    "version": "1.2.1",
+    "license": "BSD-3-Clause",
+    "notices": [
+      "docs/licenses/frontend/ieee754/LICENSE"
+    ]
+  },
+  {
+    "name": "immediate",
+    "version": "3.0.6",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/immediate/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "is-promise",
+    "version": "2.2.2",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/is-promise/LICENSE"
+    ]
+  },
+  {
+    "name": "isexe",
+    "version": "2.0.0",
+    "license": "ISC",
+    "notices": [
+      "docs/licenses/frontend/isexe/LICENSE"
+    ]
+  },
+  {
+    "name": "its-fine",
+    "version": "2.1.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/its-fine/LICENSE"
+    ]
+  },
+  {
+    "name": "@types/react-reconciler",
+    "version": "0.28.9",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/@types__react-reconciler/LICENSE"
+    ]
+  },
+  {
+    "name": "lie",
+    "version": "3.3.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/lie/license.md"
+    ]
+  },
+  {
+    "name": "lucide-react",
+    "version": "0.468.0",
+    "license": "ISC",
+    "notices": [
+      "docs/licenses/frontend/lucide-react/LICENSE"
+    ]
+  },
+  {
+    "name": "maath",
+    "version": "0.10.8",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/maath/LICENSE.upstream"
+    ],
+    "notice_source": "https://raw.githubusercontent.com/pmndrs/maath/main/LICENSE",
+    "notice_scope": "Current upstream license supplement; published npm archive lacked standalone license"
+  },
+  {
+    "name": "meshline",
+    "version": "3.3.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/meshline/LICENSE"
+    ]
+  },
+  {
+    "name": "meshoptimizer",
+    "version": "0.22.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/meshoptimizer/LICENSE.md"
+    ]
+  },
+  {
+    "name": "path-key",
+    "version": "3.1.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/path-key/license"
+    ]
+  },
+  {
+    "name": "potpack",
+    "version": "1.0.2",
+    "license": "ISC",
+    "notices": [
+      "docs/licenses/frontend/potpack/LICENSE"
+    ]
+  },
+  {
+    "name": "promise-worker-transferable",
+    "version": "1.0.4",
+    "license": "Apache-2.0",
+    "notices": [
+      "docs/licenses/frontend/promise-worker-transferable/LICENSE"
+    ]
+  },
+  {
+    "name": "react",
+    "version": "19.1.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/react/LICENSE"
+    ]
+  },
+  {
+    "name": "react-dom",
+    "version": "19.1.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/react-dom/LICENSE"
+    ]
+  },
+  {
+    "name": "scheduler",
+    "version": "0.26.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/scheduler/LICENSE"
+    ]
+  },
+  {
+    "name": "react-reconciler",
+    "version": "0.31.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/react-reconciler/LICENSE"
+    ]
+  },
+  {
+    "name": "react-use-measure",
+    "version": "2.1.7",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/react-use-measure/LICENSE"
+    ]
+  },
+  {
+    "name": "require-from-string",
+    "version": "2.0.2",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/require-from-string/license"
+    ]
+  },
+  {
+    "name": "scheduler",
+    "version": "0.25.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/scheduler/LICENSE"
+    ]
+  },
+  {
+    "name": "shebang-command",
+    "version": "2.0.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/shebang-command/license"
+    ]
+  },
+  {
+    "name": "shebang-regex",
+    "version": "3.0.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/shebang-regex/license"
+    ]
+  },
+  {
+    "name": "stats-gl",
+    "version": "2.4.2",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/stats-gl/PUBLISHED-NOTICE.txt"
+    ],
+    "notice_scope": "Published metadata/README declaration; standalone license text absent from archive"
+  },
+  {
+    "name": "three",
+    "version": "0.170.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/three/LICENSE"
+    ]
+  },
+  {
+    "name": "stats.js",
+    "version": "0.17.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/stats.js/LICENSE"
+    ]
+  },
+  {
+    "name": "suspend-react",
+    "version": "0.1.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/suspend-react/LICENSE"
+    ]
+  },
+  {
+    "name": "three",
+    "version": "0.180.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/three/LICENSE"
+    ]
+  },
+  {
+    "name": "three-mesh-bvh",
+    "version": "0.8.3",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/three-mesh-bvh/LICENSE"
+    ]
+  },
+  {
+    "name": "three-stdlib",
+    "version": "2.36.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/three-stdlib/LICENSE"
+    ]
+  },
+  {
+    "name": "fflate",
+    "version": "0.6.11",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/fflate/LICENSE"
+    ]
+  },
+  {
+    "name": "troika-three-text",
+    "version": "0.52.5",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/troika-three-text/LICENSE"
+    ]
+  },
+  {
+    "name": "troika-three-utils",
+    "version": "0.52.5",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/troika-three-utils/LICENSE"
+    ]
+  },
+  {
+    "name": "troika-worker-utils",
+    "version": "0.52.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/troika-worker-utils/LICENSE"
+    ]
+  },
+  {
+    "name": "tunnel-rat",
+    "version": "0.1.2",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/tunnel-rat/LICENSE"
+    ]
+  },
+  {
+    "name": "zustand",
+    "version": "4.5.7",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/zustand/LICENSE"
+    ]
+  },
+  {
+    "name": "use-sync-external-store",
+    "version": "1.7.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/use-sync-external-store/LICENSE"
+    ]
+  },
+  {
+    "name": "utility-types",
+    "version": "3.11.0",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/utility-types/LICENSE"
+    ]
+  },
+  {
+    "name": "webgl-constants",
+    "version": "1.1.1",
+    "license": "See upstream",
+    "notices": [
+      "docs/licenses/frontend/webgl-constants/LICENSE"
+    ]
+  },
+  {
+    "name": "webgl-sdf-generator",
+    "version": "1.1.1",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/webgl-sdf-generator/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "which",
+    "version": "2.0.2",
+    "license": "ISC",
+    "notices": [
+      "docs/licenses/frontend/which/LICENSE"
+    ]
+  },
+  {
+    "name": "zustand",
+    "version": "5.0.15",
+    "license": "MIT",
+    "notices": [
+      "docs/licenses/frontend/zustand/LICENSE"
+    ]
+  }
+]
